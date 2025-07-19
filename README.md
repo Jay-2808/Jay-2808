@@ -6,6 +6,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+ML+Explorer;Web+Developer;Tech+Adventurer...+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://jay-2808.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%2300C9A7?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
 ---
 
 🎓 **B.E. CSE (AI & ML)** @ Sri Sai Ram Engineering College  
@@ -71,9 +77,8 @@ Developed a pixel-perfect, Lighthouse-optimized web app with smooth UX using HTM
 
 ## 🏆 Achievements
 
-🏅 **Smart India Hackathon 2024 Winner** – Ministry of Social Justice  
+🏅 **Smart India Hackathon 2024 Winner** – Ministry of Social Justice & Empowerment
 🥈 **2nd Place – IC Hack 2.0** (IEEE India Council)  
-💼 **Student Chapter Secretary** – IEEE EMBS, organized 10+ tech-health events  
 📝 **Published** at IEEE ICPECTS – Smart Healthcare with Epidemiological Modeling
 
 ---
